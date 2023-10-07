@@ -15,11 +15,11 @@ Eu sou desenvolvedora back-end, professora de programação e JUG Community Man
 Fui da primeira turma de Back-End da Reprograma
 Hoje trabalho como Engenheira de Software no Banco Itaú.
 
-💌 Email: sampaioaanaluiza@gmail.com
-📸 Instagram: [@analu.io](https://www.instagram.com/analu.io/)
-🐤 Twitter: [@analupontoio](https://twitter.com/analupontoio/)
-💼 LinkedIn: [in/sampaioaanaluiza](https://www.linkedin.com/in/sampaioaanaluiza/)
-👩‍💻 Github:[/analuizasampaio](https://github.com/analuizasampaio)
+- 💌 Email: sampaioaanaluiza@gmail.com
+- 📸 Instagram: [@analu.io](https://www.instagram.com/analu.io/)
+- 🐤 Twitter: [@analupontoio](https://twitter.com/analupontoio/)
+- 💼 LinkedIn: [in/sampaioaanaluiza](https://www.linkedin.com/in/sampaioaanaluiza/)
+- 👩‍💻 Github:[/analuizasampaio](https://github.com/analuizasampaio)
 
 
 
