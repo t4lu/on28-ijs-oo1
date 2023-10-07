@@ -47,18 +47,20 @@ Deve possuir as seguintes propriedades:
   - [ ] `poderTotal`: retorna a soma de poderes do super-herói.
    - O poder total é calculado percorrendo-se a lista de poderes e somando a categoria de cada poder.
 
-### SuperHeroi
-Defina uma classe para um objeto `SuperHeroi` que herda da classe `Personagem`
 >❌ **A SER IMPLEMENTADO APENAS NA PROXIMA SEMANA** ❌
+> ### SuperHeroi
+> Defina uma classe para um objeto `SuperHeroi` que herda da classe `Personagem`
 >  - Metodo `poderTotal`: retorna o poder do personagem super-herói com um acréscimo de 10%.
 
-### Vilao
-Defina uma classe para um objeto `Vilao` que herda da classe `Personagem`
-Deve possuir as seguintes propriedades:
-- [ ] `tempoDePrisao`: Tempo de prisao do vilão
-  - Recebido por parâmetro durante a instanciação.
-  - Deve ser um parâmetro publico
-  - Deve ter um método get
+
+>❌ **A SER IMPLEMENTADO APENAS NA PROXIMA SEMANA** ❌
+> ### Vilao
+> Defina uma classe para um objeto `Vilao` que herda da classe `Personagem`
+> Deve possuir as seguintes propriedades:
+> - [ ] `tempoDePrisao`: Tempo de prisao do vilão
+>   - Recebido por parâmetro durante a instanciação.
+>   - Deve ser um parâmetro publico
+>   - Deve ter um método get
 
 ### Confronto
 Defina uma classe para um objeto `Confronto`.
