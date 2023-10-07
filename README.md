@@ -5,6 +5,23 @@
 # Tema da Aula
 
 Turma Online 28 - Imersão JavaScript | Semana XX | 2023 | Professora Analu Sampaio
+### Professora Analu
+<h1>
+  <img src="assets/analu.jpeg" alt="foto analu" width="200">
+</h1>
+
+Eu sou desenvolvedora back-end, professora de programação e JUG Community Manager no `Devs JavaGirl`
+
+Fui da primeira turma de Back-End da Reprograma
+Hoje trabalho como Engenheira de Software no Banco Itaú.
+
+💌 Email: sampaioaanaluiza@gmail.com
+📸 Instagram: [@analu.io](https://www.instagram.com/analu.io/)
+🐤 Twitter: [@analupontoio](https://twitter.com/analupontoio/)
+💼 LinkedIn: [in/sampaioaanaluiza](https://www.linkedin.com/in/sampaioaanaluiza/)
+👩‍💻 Github:[/analuizasampaio](https://github.com/analuizasampaio)
+
+
 
 ### Instruções
 
@@ -22,6 +39,7 @@ Antes de começar, vamos organizar nosso setup.
 ### Resumo
 O que veremos na aula de hoje?
 - [Tema da Aula](#tema-da-aula)
+    - [Professora](#professora)
     - [Instruções](#instruções)
     - [Objetivo](#objetivo)
     - [Resumo](#resumo)
@@ -44,7 +62,7 @@ O que veremos na aula de hoje?
 ## Recapitulando Prototype
 ```javascript
 function Aluna(name, grade) {
-  this.name = nome
+  this.name = name
   this.grade= grade
   this.sayName = function() {
     console.log(name)
@@ -120,10 +138,15 @@ aluna2.getGrade() // My grade is 'On28'
   #### Tudo no JavaScript é Objeto
   > Todo  `prototype` herda do `Object.prototype`
   > O Objeto de `Object.getPrototypeOf()` dever ser somente um unico `prototype`
-  #####  Object
-  #####  String
-  ##### Number
-  ##### Array
+  #####  [Object](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object)
+  `Object.prototype`
+  #####  [String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String)
+  `String.prototype`
+  ##### [Number](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Number)
+  `Number.prototype`
+  ##### [Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  `Array.prototype`
+
 
 ## Por que ensinamos Prototype antes de POO?
 Prototype é uma característica dos Objetos na linguagem JavaScript. Apesar de apresentar comportamentos de herança e em seu uso aparecerem palavras reservadas como `class`, o Prototype não faz parte do paradigma de programação orientada à objetos por si só, ele é parte da arquitetura core do JavaScript, sendo assim uma característica dos Objetos na linguagem.
@@ -153,11 +176,7 @@ Ele fica exatamente entre o que é Objeto para o JavaScript e a OOP em si, por i
 - [Javascript.info - Array methods](https://javascript.info/array-methods)
 - [Mozilla - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-### Contatos da prô
 
-- [Instagram](https://www.instagram.com/analu.io/)
-- [LinkedIn](https://www.linkedin.com/in/sampaioaanaluiza/)
-- [Github](https://github.com/analuizasampaio)
 
 <p align="center">
   Desenvolvido com &#128156 por analu.io
