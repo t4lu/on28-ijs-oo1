@@ -16,7 +16,6 @@ Atributos:
 - `tarefas` (um array para armazenar as tarefas, deve ser privado)
 
 Métodos:
-- `constructor()` (construtor que inicializa a lista de tarefas)
 - `adicionarTarefa(titulo, descricao)` (adiciona uma nova tarefa à lista)
 - `listarTarefas()` (lista todas as tarefas)
 - `marcarTarefaConcluida(titulo)` (marca uma tarefa como concluída)
