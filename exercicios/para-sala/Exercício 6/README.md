@@ -16,9 +16,17 @@ Atributos:
 - `tarefas` (um array para armazenar as tarefas, deve ser privado)
 
 Métodos:
-- `adicionarTarefa(titulo, descricao)` (adiciona uma nova tarefa à lista)
-- `listarTarefas()` (lista todas as tarefas)
-- `marcarTarefaConcluida(titulo)` (marca uma tarefa como concluída)
-- `removerTarefa(titulo)` (remove uma tarefa da lista)
+- a) `adicionarTarefa(titulo, descricao)` (adiciona uma nova tarefa à lista)
+- b) `listarTarefas()` (lista todas as tarefas)
+  ```
+  - Tarefa 1: (concluída) Descrição da tarefa 1
+  - Tarefa 2: (não concluída) Descrição da tarefa 2
+  - Tarefa 3: (não concluída) Descrição da tarefa 3
+  - Tarefa 4: (concluída) Descrição da tarefa 4
+  - Tarefa 5: (concluída) Descrição da tarefa 5
+  ```
+
+- c) `marcarTarefaConcluida(titulo)` (marca uma tarefa como concluída)
+- d) `removerTarefa(titulo)` (remove uma tarefa da lista)
 
 Utilize encapsulamento para garantir que as tarefas sejam manipuladas apenas pelos métodos e não diretamente.
