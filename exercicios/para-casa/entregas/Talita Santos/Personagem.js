@@ -21,7 +21,7 @@ export class Personagem {
     adicionaSuperPoder(superPoder) {
         if (superPoder instanceof SuperPoder) {
             this.#poderes.push(superPoder)
-            console.log(`Poder ${superPoder} adicionado à lista.`); //está retornando [object Object] :s
+            console.log(`Poder ${superPoder.nome} adicionado à lista.`);
         } else {
             console.log(`Não foi possível adicionar o poder à personagem.`);
         }
